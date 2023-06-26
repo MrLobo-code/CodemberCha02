@@ -1,0 +1,15 @@
+C:\Users\mq-189\Desktop\example\c#\challenge02\challenge02\obj\Debug\net6.0\challenge02.csproj.AssemblyReference.cache
+C:\Users\mq-189\Desktop\example\c#\challenge02\challenge02\obj\Debug\net6.0\challenge02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mq-189\Desktop\example\c#\challenge02\challenge02\obj\Debug\net6.0\challenge02.AssemblyInfoInputs.cache
+C:\Users\mq-189\Desktop\example\c#\challenge02\challenge02\obj\Debug\net6.0\challenge02.AssemblyInfo.cs
+C:\Users\mq-189\Desktop\example\c#\challenge02\challenge02\obj\Debug\net6.0\challenge02.csproj.CoreCompileInputs.cache
+C:\Users\mq-189\Desktop\example\c#\challenge02\challenge02\bin\Debug\net6.0\challenge02.exe
+C:\Users\mq-189\Desktop\example\c#\challenge02\challenge02\bin\Debug\net6.0\challenge02.deps.json
+C:\Users\mq-189\Desktop\example\c#\challenge02\challenge02\bin\Debug\net6.0\challenge02.runtimeconfig.json
+C:\Users\mq-189\Desktop\example\c#\challenge02\challenge02\bin\Debug\net6.0\challenge02.dll
+C:\Users\mq-189\Desktop\example\c#\challenge02\challenge02\bin\Debug\net6.0\challenge02.pdb
+C:\Users\mq-189\Desktop\example\c#\challenge02\challenge02\obj\Debug\net6.0\challenge02.dll
+C:\Users\mq-189\Desktop\example\c#\challenge02\challenge02\obj\Debug\net6.0\refint\challenge02.dll
+C:\Users\mq-189\Desktop\example\c#\challenge02\challenge02\obj\Debug\net6.0\challenge02.pdb
+C:\Users\mq-189\Desktop\example\c#\challenge02\challenge02\obj\Debug\net6.0\challenge02.genruntimeconfig.cache
+C:\Users\mq-189\Desktop\example\c#\challenge02\challenge02\obj\Debug\net6.0\ref\challenge02.dll
